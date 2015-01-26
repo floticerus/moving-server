@@ -1,0 +1,27 @@
+{
+  "name": "moving-server",
+  "version": "0.0.1",
+  "description": "an easy tcp server",
+  "main": "lib/server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kvonflotow/moving-server.git"
+  },
+  "keywords": [
+    "tcp",
+    "server",
+    "json"
+  ],
+  "author": "Kevin von Flotow <kevin@underscorestudios.net> (http://underscorestudios.net/)",
+  "contributors": [
+    {
+      "name": "Kevin von Flotow",
+      "email": "vonflow@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kvonflotow/moving-server/issues"
+  },
+  "homepage": "https://github.com/kvonflotow/moving-server"
+}
