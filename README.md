@@ -1,5 +1,5 @@
 # moving
-in short, this aims to bring a platform which will be familiar to express/connect users, but for tcp connections passing json data. its primary purpose is for video games, but could be used for anything.
+in short, this aims to bring a platform which will be familiar to connect/express users, but for tcp connections passing json data. its primary purpose is for video games, but could be used for anything.
 
 #### the present
 moving is currently very young and does not include a ton of features. what it does include, however, is a pretty nifty router for getting a server running with minimal effort.
